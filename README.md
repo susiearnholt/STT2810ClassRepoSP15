@@ -1,4 +1,4 @@
-This is Susie's Forked Repo
+This is Susie's Forked Repo --- add a little More
 ====================
 
 Welcome to STT 2810!
