@@ -1,4 +1,4 @@
-STT2810ClassRepoSP15
+This is Susie's Forked Repo
 ====================
 
 Welcome to STT 2810!
